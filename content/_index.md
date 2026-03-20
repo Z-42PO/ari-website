@@ -1,18 +1,20 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jump-start your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Airsoft Rhône Immersion"
+  content: "Association loi 1901 à but non lucratif dont l'objectif est de promouvoir, développer, informer et initier à la pratique de l’Airsoft de manière légale, responsable et sécuritaire."
+  subcontent: "L'ARI est adhérente à la [Fédération Française d'Airsoft](https://ffairsoft.org/) et a souscrit à son assurance."
+  image: "/images/banner.jpg"
   button:
     enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate/"
+    label: "Rejoindre notre Discord"
+    link: "https://discord.gg/7KrABEPUwS"
+    target: "_blank"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
+  - title: "L'airsoft c'est quoi ?"
+    image: "/images/service-1.jpg"
     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
     bulletpoints:
       - "10+ Pre-build pages"
@@ -22,12 +24,13 @@ features:
       - "SEO-optimized for better search engine rankings"
       - "**Open-source and free** for personal and commercial use"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Voir la vidéo"
+      link: "https://www.youtube.com/watch?v=ITcSYKvT8es"
+      target: "_blank"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
+  - title: "Nos valeurs"
+    image: "/images/service-2.jpg"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
@@ -35,11 +38,11 @@ features:
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Pourquoi jouer à l'ARI ?"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
+  - title: "Nos terrains"
+    image: "/images/service-3.jpg"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
@@ -47,7 +50,7 @@ features:
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
-      enable: false
-      label: ""
+      enable: true
+      label: "Comment jouer à l'ARI ?"
       link: ""
 ---

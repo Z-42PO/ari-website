@@ -2,22 +2,60 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+weight = 2
+name = "Notre association"
+
+[[main]]
+parent = "Notre association"
+name = "Une expérience unique"
+url = "/why"
+weight = 1
+
+[[main]]
+parent = "Notre association"
+name = "Une journée type"
+url = "/typical-day"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+parent = "Notre association"
+name = "Où est-ce que ça joue ?"
+url = "/outside"
 weight = 3
 
 [[main]]
+parent = "Notre association"
+name = "Anciens terrains"
+url = "/old-terrains"
 weight = 4
+
+[[main]]
+name = "Comment jouer ?"
+url = "/how-to-play"
+weight = 3
+
+[[main]]
+name = "Nos règles de jeu"
+url = "/rules"
+weight = 4
+
+[[main]]
+name = "Notre scénario"
+url = "/scenario"
+weight = 5
+
+[[main]]
+name = "Boutique"
+url = "/shop"
+weight = 6
+
+[[main]]
+weight = 7
 name = "Pages"
 
 [[main]]
@@ -44,6 +82,16 @@ url = "/categories"
 parent = "Pages"
 name = "404 Page"
 url = "/404"
+
+[[main]]
+parent = "Pages"
+name = "About"
+url = "/about"
+
+[[main]]
+parent = "Pages"
+name = "Elements"
+url = "/elements"
 
 
 # footer menu

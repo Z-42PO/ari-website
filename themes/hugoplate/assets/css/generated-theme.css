@@ -6,14 +6,15 @@
 
 @theme {
   /* === Colors === */
-  --color-primary: #121212;
-  --color-body: #fff;
-  --color-border: #eaeaea;
-  --color-light: #f6f6f6;
-  --color-dark: #040404;
+  --color-primary: #80774c;
+  --color-body: #F2F2F2;
+  --color-border: #C2BC9D;
+  --color-light: #e5e5e5;
+  --color-dark: #776b38;
+  --color-darker: #474b37;
   --color-text: #444444;
-  --color-text-dark: #040404;
-  --color-text-light: #717171;
+  --color-text-dark: #504e3d;
+  --color-text-light: #f0e9c8;
 
   /* === Font Families === */
   --font-primary: Heebo, sans-serif;
