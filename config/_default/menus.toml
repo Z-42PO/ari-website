@@ -1,63 +1,121 @@
-############# English navigation ##############
-
 # main menu
 [[main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+weight = 2
+name = "L'association"
+
+[[main]]
+parent = "L'association"
+name = "Notre engagement"
+url = "/why"
+weight = 1
+
+[[main]]
+parent = "L'association"
+name = "Notre scénario"
+url = "/scenario"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+parent = "L'association"
+name = "Nos terrains"
+url = "/our-fields"
 weight = 3
 
 [[main]]
+parent = "L'association"
+name = "Anciens terrains"
+url = "/old-terrains"
 weight = 4
-name = "Pages"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+weight = 3
+name = "Nos parties"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+parent = "Nos parties"
+name = "Inscription"
+url = "/how-to-play"
+weight = 1
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+parent = "Nos parties"
+name = "Une journée type"
+url = "/typical-day"
+weight = 2
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+parent = "Nos parties"
+name = "Nos règles de jeu"
+url = "/rules"
+weight = 3
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+name = "Boutique"
+url = "/shop"
+weight = 4
+
+[[main]]
+name = "Autres assos"
+url = "/outside"
+weight = 5
+
+# [[main]]
+# weight = 6
+# name = "Pages"
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "/blog"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "/contact"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "/authors"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "/categories"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "/404"
+
+# [[main]]
+# parent = "Pages"
+# name = "About"
+# url = "/about"
+
+# [[main]]
+# parent = "Pages"
+# name = "Elements"
+# url = "/elements"
 
 
 # footer menu
 [[footer]]
-name = "About"
-url = "/about"
+name = "L'association"
+url = "/why"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "La FFA"
+url = "/https://ffairsoft.org/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
+name = "Nos parties"
+url = "/how-to-play"
 weight = 3

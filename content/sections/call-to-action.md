@@ -1,12 +1,12 @@
 ---
 enable: true
-title: "Ready to build your next project with Hugo?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Hugoplate and Hugo. Build lightning-fast static sites with ease and flexibility."
+title: "Prêt pour l'aventure ?"
+image: "/images/call-to-action.jpg"
+description: "Nous vous accueillons à bras ouverts pour répondre à vos interrogations et discuter **airsoft**, répliques, style de jeu, stratégie... mais pas que..."
 button:
   enable: true
-  label: "Fork Deploy and Edit Online 🚀"
-  link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate/"
+  label: "Rejoindre notre Discord"
+  link: "https://discord.gg/7KrABEPUwS"
 
 # don't create a separate page
 build:

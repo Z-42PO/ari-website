@@ -1,0 +1,15 @@
+{{ $imagePath := .Get "image" }}
+{{ $imageResource := resources.Get $imagePath }}
+{{ $title := .Get "title" }}
+
+<div aria-label="column">
+  {{ if $imageResource }}
+    {{ partial "image" (dict "Src" $imageResource "Alt" $title "Class" "mb-0!") }}
+  {{ end }}
+  {{ if $title }}
+    <div class="text-center">
+      <h2 class="mt-0!">{{ $title }}</h2>
+    </div>
+  {{ end }}
+  {{- .Inner | markdownify -}}
+</div>

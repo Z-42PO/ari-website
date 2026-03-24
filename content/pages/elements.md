@@ -86,6 +86,29 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 <hr>
 
+### Colunms
+
+{{< columns >}}
+{{< column image="" title="title 1" >}}
+Contenu Markdown
+{{< /column >}}
+
+{{< column image="" title="title 2" >}}
+Contenu Markdown
+{{< /column >}}
+{{< /columns >}}
+
+<hr>
+
+### Features
+
+{{< features image="images/logo.png" video="" position="" title="Title" >}}
+Contenu Markdown
+{{< /features >}}
+
+<hr>
+
+
 ### Notice
 
 {{< notice "note" >}}

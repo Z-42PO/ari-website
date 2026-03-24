@@ -154,7 +154,7 @@ function generateThemeCSS() {
     const scale = Number(themeConfig.fonts.font_size?.scale || 1.25);
 
     cssLines.push(`  --text-base: ${baseSize}px;`);
-    cssLines.push(`  --text-base-sm: ${baseSize * 0.8}px;`);
+    cssLines.push(`  --text-base-sm: ${baseSize * 1}px;`);
 
     let currentSize = scale;
     for (let i = 6; i >= 1; i--) {

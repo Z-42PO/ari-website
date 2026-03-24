@@ -1,0 +1,15 @@
+{{ if .Params.image }}
+  <section style="background-image: url('{{ .Params.image }}')"  class="section flex items-center relative bg-center bg-cover h-[368px] overlay">
+    <div class="container relative z-1 text-center">
+      <div>
+        <h1 class="text-yellow-50 text-shadow-md">{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
+{{ else }}
+  <section>
+    <div class="container text-center">
+      <div class="from-body to-light   rounded-2xl bg-gradient-to-b px-8 py-14">
+        <h1>{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
+        {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+{{ end }}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,43 @@
+{{ define "main" }}
+  <!-- Banner -->
+  {{ with .Params.banner }}
+    <section style="background-image: url('{{ .image }}')"  class="section flex items-center relative bg-center bg-cover h-[480px] overlay">
+      <div class="container relative z-1">
+        <div class="row justify-center">
+          <div class="lg:col-7 md:col-9 mb-8 text-center text-yellow-50 text-shadow-md">
+            <h1 class="mb-4 text-h3 lg:text-h1 text-olive-50">
+              {{ .title | markdownify }}
+            </h1>
+            <p class="mb-8 text-lg">
+              {{ .content | markdownify }}
+            </p>
+            <p class="text-lg">
+              {{ .subcontent | markdownify }}
+            </p>
+            {{ with .button }}
+              {{ if .enable }}
+                <a
+                  class="btn btn-primary mt-10"
+                  href="{{ .link | absURL }}"
+                  {{ if strings.HasPrefix .link `http` }}
+                    target="_blank" rel="noopener"
+                  {{ end }}>
+                  {{ .label }}
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Banner -->
+
+  <!-- Features -->
+  {{ partial "features" . }}
+  <!-- /Features -->
+
+  <!-- Call to action -->
+  {{ partial "call-to-action" . }}
+  <!-- /Call to action -->
+{{ end }}

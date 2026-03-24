@@ -1,0 +1,6 @@
+{{ $content := .Inner }}
+{{ $count := len (findRE `<div aria-label="column">` $content) }}
+
+<div class="grid grid-cols-1 md:grid-cols-{{ $count }} gap-6 my-4">
+  {{ $content | safeHTML }}
+</div>
