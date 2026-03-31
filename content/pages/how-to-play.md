@@ -2,7 +2,7 @@
 title: "Comment jouer ?"
 meta_title: ""
 description: ""
-image: "/images/gallery/04.jpg"
+image: "/images/inscription-partie-airsoft-lyon.jpg"
 draft: false
 ---
 ## Prise de contact et inscription
@@ -12,7 +12,7 @@ Nous lançons sur [Discord](https://discord.gg/7KrABEPUwS) un vote chaque mois p
 Les inscriptions aux parties se font sur [Tacline](https://tacline.co/fr/user/airsoft-rhone-immersion) ou [Hello Asso](https://www.helloasso.com/associations/airsoft-rhone-immersion). Le message est également relayé sur [Facebook](https://www.facebook.com/profile.php?id=100094659845918). Dès qu'une partie est ouverte, tout est indiqué sur notre [Discord](https://discord.gg/7KrABEPUwS).
 
 {{< columns >}}
-{{< column image="images/gallery/05.jpg" title="Occasionnel" >}}
+{{< column image="images/homme-airsoft-amateur-occasionnel.jpg" title="Occasionnel" >}}
 **10€ la journée de jeu** (assurance incluse - hors options).
 
 Gratuit pour les membres de l'association "Les BeeBees".
@@ -24,7 +24,7 @@ Prévoir :
 - Gants
 {{< /column >}}
 
-{{< column image="images/gallery/06.jpg" title="Adhérent" >}}
+{{< column image="images/homme-airsoft-adherent-ari.jpg" title="Adhérent" >}}
 **Les parties sont gratuites** si organisées par l'ARI sur son terrain (hors options, cf plus bas) pour ses adhérents à jour de leur cotisation (30€ / année civile).
 
 Etre adhérent, c'est aussi profiter de certains avantages :
@@ -36,13 +36,13 @@ Etre adhérent, c'est aussi profiter de certains avantages :
 {{< /column >}}
 {{< /columns >}}
 
-{{< features image="images/gallery/07.jpg" position="left" title="Option : formule déjeuner (10€)" >}}
+{{< features image="images/table-picnic-airsoft-lyon.jpg" position="left" title="Option : formule déjeuner (10€)" >}}
 Repas du midi complet  avec apéritifs divers, fromage, charcuterie, pain, plats traiteurs froids, boissons et dessert.
 
 ⚠️ Feu et alcool interdits
 {{< /features >}}
 
-{{< features image="images/gallery/08.jpg" position="right" title="Option : location (10€)" >}}
+{{< features image="images/repliques-airsoft-location-lyon.jpg" position="right" title="Option : location (10€)" >}}
 Le pack de location comprend 1 réplique de type fusil d'assaut électrique de puissance standard (1J) avec munitions et consommables pour environ 1000 coups minimum.
 
 Les adhérents bénéficient d'un tarif location à 5€ au lieu de 10€.

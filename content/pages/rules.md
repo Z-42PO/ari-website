@@ -2,7 +2,7 @@
 title: "Règles de jeu à l'ARI"
 meta_title: ""
 description: ""
-image: "/images/gallery/04.jpg"
+image: "/images/regles-jeu-airsoft-lyon.jpg"
 draft: false
 ---
 {{< features video="VavncV32F0A" position="right" title="Briefing vidéo" >}}
@@ -17,7 +17,7 @@ La vidéo ayant été réalisée en 2023, des changements sont susceptibles d'in
 
 ## La puissance des répliques
 
-{{< image class="img-fluid" src="images/puissance-repliques.png" title="image title" alt="alter-text" position="center" command="fill" option="q100" >}}
+{{< image class="img-fluid" src="images/puissance-repliques-airsoft-lyon.jpg" title="image title" alt="alter-text" position="center" command="fill" option="q100" >}}
 
 ## Pourquoi cette "complexité" ?
 

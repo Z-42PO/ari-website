@@ -2,7 +2,7 @@
 title: "Une expérience unique"
 meta_title: ""
 description: ""
-image: "/images/gallery/04.jpg"
+image: "/images/engagement-airsoft-responsable-lyon.jpg"
 draft: false
 ---
 ## Un jeu qualitatif, accessible et non élitiste
@@ -36,7 +36,7 @@ L’association encourage la progression des joueurs, tant sur le plan technique
 
 L'association veille à garantir un flux constant d'améliorations, d'achat de matériel utile et de nouvelle prestations, dont vous trouverez quelques exemples ci-dessous :
 
-{{< features image="/images/service-1.jpg" position="right" >}}
+{{< features image="/images/materiel-disponible-airsoft-lyon.jpg" position="right" >}}
 - Bidon d’eau potable (15L)
 - Café et viennoiseries le matin
 - Auto-loader électrique
