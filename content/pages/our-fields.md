@@ -13,17 +13,17 @@ Accès par le chemin des crapauds : attention, chemin en terre battue, véhicule
 {{< /column >}}
 
 {{< column image="/images/vue-terrain-airsoft-reyrieux.jpg" alt="Vue du terrain airsoft de Reyrieux dans l'Ain, proche de Lyon" >}}
-Parking accolé à la ZN aménagée.
+Parking accolé à la Zone Neutre aménagée.
 {{< /column >}}
 {{< /columns >}}
 
 ## Blacé (40min de Lyon)
 {{< columns >}}
 {{< column image="/images/carte-terrain-airsoft-blace.jpg" alt="Carte d'accès au terrain airsoft de Blacé, à 40 min de Lyon" >}}
-Contenu Markdown
+Accès par l'impasse du Gonnu. Route goudronnée jusqu'au parking.
 {{< /column >}}
 
-{{< column image="/images/image-placeholder.png" alt="Terrain airsoft de Blacé" >}}
-Contenu Markdown
+{{< column image="/images/vue-terrain-airsoft-blace.jpg" alt="Terrain airsoft de Blacé" >}}
+Grand parking à 150m de la Zone Neutre.
 {{< /column >}}
 {{< /columns >}}
