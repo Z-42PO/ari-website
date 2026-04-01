@@ -50,3 +50,7 @@ L'association veille à garantir un flux constant d'améliorations, d'achat de m
 - Trousse de secours
 - Matériel scénarios : chronos, détecteur de métaux, bandages
 {{< /features >}}
+
+## L'ARI en image
+
+{{< slider dir="images/gallery" class="max-w-full ml-0" height="550" width="1200" webp="true" command="Fill" option="pagination" zoomable="true" >}}
