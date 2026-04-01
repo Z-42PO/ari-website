@@ -1,0 +1,39 @@
+{{- if .IsHome -}}
+{{ $sameAs := slice }}
+{{ range (index site.Data.social "main") }}
+  {{ $sameAs = append .link $sameAs }}
+{{ end }}
+{{ $schema := dict
+  "@context" "https://schema.org"
+  "@type" (slice "SportsOrganization" "SportsClub")
+  "name" "Airsoft Rhône Immersion"
+  "alternateName" "ARI"
+  "url" (absURL "")
+  "logo" (absURL "images/logo.png")
+  "description" "Association d'airsoft loi 1901 basée à Reyrieux dans l'Ain, à proximité de Lyon. Parties scénarisées, immersives et accessibles à tous, débutants comme confirmés."
+  "sport" "Airsoft"
+  "foundingDate" "2023"
+  "location" (dict
+    "@type" "Place"
+    "name" "Reyrieux"
+    "address" (dict
+      "@type" "PostalAddress"
+      "addressLocality" "Reyrieux"
+      "addressRegion" "Auvergne-Rhône-Alpes"
+      "postalCode" "01600"
+      "addressCountry" "FR"
+    )
+  )
+  "areaServed" (dict
+    "@type" "City"
+    "name" "Lyon"
+  )
+  "sameAs" $sameAs
+  "memberOf" (dict
+    "@type" "SportsOrganization"
+    "name" "Fédération Française d'Airsoft"
+    "url" "https://ffairsoft.org/"
+  )
+-}}
+{{ printf "<script type=\"application/ld+json\">%s</script>" ($schema | jsonify) | safeHTML }}
+{{- end }}
