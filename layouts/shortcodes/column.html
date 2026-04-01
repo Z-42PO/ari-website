@@ -1,10 +1,11 @@
 {{ $imagePath := .Get "image" }}
 {{ $imageResource := resources.Get $imagePath }}
 {{ $title := .Get "title" }}
+{{ $alt := .Get "alt" | default $title }}
 
 <div aria-label="column">
   {{ if $imageResource }}
-    {{ partial "image" (dict "Src" $imageResource "Alt" $title "Class" "mb-0!") }}
+    {{ partial "image" (dict "Src" $imageResource "Alt" $alt "Class" "mb-0!") }}
   {{ end }}
   {{ if $title }}
     <div class="text-center">

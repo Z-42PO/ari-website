@@ -3,11 +3,12 @@
 {{ $imagePath := .Get "image" }}
 {{ $imageResource := resources.Get $imagePath }}
 {{ $title := .Get "title" }}
+{{ $alt := .Get "alt" | default $title }}
 
 <div class="row items-center justify-between my-4">
   <div class="mb:md-0 {{ if eq $position `right` }}md:order-2{{ end }} md:col-5">
     {{ if $imageResource }}
-      {{ partial "image" (dict "Src" $imageResource "Alt" $title "Class" "mb-0!") }}
+      {{ partial "image" (dict "Src" $imageResource "Alt" $alt "Class" "mb-0!") }}
     {{ end }}
     {{ if $videoid }}
       <lite-youtube class="my-4" videoid="{{ $videoid }}"></lite-youtube>
