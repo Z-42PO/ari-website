@@ -10,7 +10,7 @@ draft: false
 
 L'ARI ne souhaite pas tomber dans le piège de la routine et de l'entre-soit : nous faisons la promotion active du jeu sur les autres terrains et avec les autres association du Rhône et au délà.
 
-{{< image src="images/carte-autres-terrains-airsoft.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/carte-autres-terrains-airsoft.jpg" caption="" alt="Carte des terrains et associations airsoft autour de Lyon en Rhône-Alpes" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 ### Les BeeBees (association)
 

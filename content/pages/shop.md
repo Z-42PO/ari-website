@@ -87,17 +87,17 @@ _Distribution sur le terrain uniquement, n'hésitez pas à vous manifester sur D
 
 ## Les patchs !
 {{< columns >}}
-{{< column image="/images/ecusson-ARI-airsoft-lyon.jpg" >}}
+{{< column image="/images/ecusson-ARI-airsoft-lyon.jpg" alt="Patch écusson officiel de l'ARI Airsoft Rhône Immersion" >}}
 <h3 class="text-center mt-0!">ARI</h3>
 Le patch officiel de l’ARI ! Portez fièrement les couleurs de l’ARI sur le terrain !
 {{< /column >}}
 
-{{< column image="/images/ecusson-MSI-airsoft-lyon.jpg" >}}
+{{< column image="/images/ecusson-MSI-airsoft-lyon.jpg" alt="Patch écusson MSI (Marteau Sécurité Inc.) pour le scénario airsoft ARI" >}}
 <h3 class="text-center mt-0!">MSI</h3>
 Signifiez votre allégeance au groupe MSI. Une société militaire privée. Il symbolise la puissance et la détermination d’une unité d’anciens soldats et d’opérateurs sans scrupules, financée par la RAPARA pour pacifier le Beaujolais.
 {{< /column >}}
 
-{{< column image="/images/ecusson-FLB-beaujolais-airsoft.jpg" >}}
+{{< column image="/images/ecusson-FLB-beaujolais-airsoft.jpg" alt="Patch écusson FLB (Front de Libération du Beaujolais) pour le scénario airsoft ARI" >}}
 <h3 class="text-center mt-0!">FLB</h3>
 Le symbole du FLB reflète l’esprit des insurgés. Dès l’arrivée des premières antennes 5G, vignerons et habitants ont pris le maquis, utilisant ruses et terrain pour harceler les commandos de la MSI et contrecarrer les plans de la RAPARA.
 {{< /column >}}

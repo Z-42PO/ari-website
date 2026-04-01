@@ -13,7 +13,7 @@ Nous lançons sur [Discord](https://discord.gg/7KrABEPUwS) un vote chaque mois p
 Les inscriptions aux parties se font sur [Tacline](https://tacline.co/fr/user/airsoft-rhone-immersion) ou [Hello Asso](https://www.helloasso.com/associations/airsoft-rhone-immersion). Le message est également relayé sur [Facebook](https://www.facebook.com/profile.php?id=100094659845918). Dès qu'une partie est ouverte, tout est indiqué sur notre [Discord](https://discord.gg/7KrABEPUwS).
 
 {{< columns >}}
-{{< column image="images/homme-airsoft-amateur-occasionnel.jpg" title="Occasionnel" >}}
+{{< column image="images/homme-airsoft-amateur-occasionnel.jpg" title="Occasionnel" alt="Joueur airsoft occasionnel équipé pour une partie à l'ARI près de Lyon" >}}
 **10€ la journée de jeu** (assurance incluse - hors options).
 
 Gratuit pour les membres de l'association "Les BeeBees".
@@ -25,7 +25,7 @@ Prévoir :
 - Gants
 {{< /column >}}
 
-{{< column image="images/homme-airsoft-adherent-ari.jpg" title="Adhérent" >}}
+{{< column image="images/homme-airsoft-adherent-ari.jpg" title="Adhérent" alt="Joueur airsoft adhérent de l'ARI avec équipement complet" >}}
 **Les parties sont gratuites** si organisées par l'ARI sur son terrain (hors options, cf plus bas) pour ses adhérents à jour de leur cotisation (30€ / année civile).
 
 Etre adhérent, c'est aussi profiter de certains avantages :
@@ -43,7 +43,7 @@ Repas du midi complet  avec apéritifs divers, fromage, charcuterie, pain, plats
 ⚠️ Feu et alcool interdits
 {{< /features >}}
 
-{{< features image="images/repliques-airsoft-location-lyon.jpg" position="right" title="Option : location (10€)" >}}
+{{< features image="images/repliques-airsoft-location-lyon.jpg" position="right" title="Option : location (10€)" alt="Répliques airsoft disponibles à la location lors des parties de l'ARI" >}}
 Le pack de location comprend 1 réplique de type fusil d'assaut électrique de puissance standard (1J) avec munitions et consommables pour environ 1000 coups minimum.
 
 Les adhérents bénéficient d'un tarif location à 5€ au lieu de 10€.

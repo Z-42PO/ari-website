@@ -13,10 +13,10 @@ draft: false
 - Distance de Lyon : 55 min / 68 km
 
 {{< columns >}}
-{{< column image="/images/carte-terrain-airsoft-echarmeaux.jpg" >}}
+{{< column image="/images/carte-terrain-airsoft-echarmeaux.jpg" alt="Carte d'accès au terrain airsoft du Col des Échameaux dans le Beaujolais" >}}
 {{< /column >}}
 
-{{< column image="/images/vue-terrain-airsoft-echarmeaux.jpg" >}}
+{{< column image="/images/vue-terrain-airsoft-echarmeaux.jpg" alt="Vue du terrain forestier airsoft du Col des Échameaux" >}}
 {{< /column >}}
 {{< /columns >}}
 

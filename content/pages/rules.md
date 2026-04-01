@@ -18,7 +18,7 @@ La vidéo ayant été réalisée en 2023, des changements sont susceptibles d'in
 
 ## La puissance des répliques
 
-{{< image class="img-fluid" src="images/puissance-repliques-airsoft-lyon.jpg" title="image title" alt="alter-text" position="center" command="fill" option="q100" >}}
+{{< image class="img-fluid" src="images/puissance-repliques-airsoft-lyon.jpg" title="image title" alt="Tableau des puissances et distances d'engagement des répliques airsoft à l'ARI" position="center" command="fill" option="q100" >}}
 
 ## Pourquoi cette "complexité" ?
 

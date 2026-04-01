@@ -37,7 +37,7 @@ L’association encourage la progression des joueurs, tant sur le plan technique
 
 L'association veille à garantir un flux constant d'améliorations, d'achat de matériel utile et de nouvelle prestations, dont vous trouverez quelques exemples ci-dessous :
 
-{{< features image="/images/materiel-disponible-airsoft-lyon.jpg" position="right" >}}
+{{< features image="/images/materiel-disponible-airsoft-lyon.jpg" position="right" alt="Matériel disponible lors des parties airsoft de l'ARI" >}}
 - Bidon d’eau potable (15L)
 - Café et viennoiseries le matin
 - Auto-loader électrique
