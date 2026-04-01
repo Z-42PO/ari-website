@@ -20,4 +20,4 @@ draft: false
 {{< /column >}}
 {{< /columns >}}
 
-{{< slider dir="images/gallery-echarmeaux" class="max-w-full ml-0" height="400" width="400" webp="true" command="Fit" option="pagination" zoomable="true" >}}
+{{< slider dir="images/gallery-echarmeaux" class="max-w-full ml-0" height="550" width="1200" webp="true" command="Fill" option="pagination" zoomable="true" >}}
