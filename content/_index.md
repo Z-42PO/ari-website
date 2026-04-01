@@ -1,4 +1,7 @@
 ---
+meta_title: "Airsoft Lyon | Association Airsoft Rhône Immersion (ARI)"
+description: "L'ARI est une association d'airsoft près de Lyon, basée à Reyrieux dans l'Ain. Parties scénarisées, immersives et accessibles à tous, débutants comme confirmés."
+
 # Banner
 banner:
   title: "Airsoft Rhône Immersion"

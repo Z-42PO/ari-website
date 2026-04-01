@@ -1,7 +1,7 @@
 ---
 title: "Nos terrains"
-meta_title: ""
-description: ""
+meta_title: "Terrains airsoft près de Lyon | ARI – Reyrieux & Blacé"
+description: "Découvrez les terrains d'airsoft de l'ARI près de Lyon : Reyrieux (30 min) et Blacé (40 min). Espaces naturels aménagés pour des parties immersives et sécurisées."
 image: "/images/terrains-airsoft-lyon.jpg"
 draft: false
 ---

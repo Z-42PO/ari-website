@@ -1,7 +1,7 @@
 ---
 title: "Nos anciens terrains"
-meta_title: ""
-description: ""
+meta_title: "Anciens terrains airsoft Lyon | Historique ARI"
+description: "Historique des anciens terrains d'airsoft de l'ARI près de Lyon, dont le Col des Échameaux dans le Beaujolais. Retrouvez l'évolution de nos sites de jeu."
 image: "/images/ancien-terrain-airsoft-echarmeaux.jpg"
 draft: false
 ---

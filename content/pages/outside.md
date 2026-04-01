@@ -1,7 +1,7 @@
 ---
 title: "Associations autours de Lyon"
-meta_title: ""
-description: ""
+meta_title: "Associations airsoft autour de Lyon | Partenaires ARI"
+description: "L'ARI recommande d'autres associations et terrains d'airsoft autour de Lyon : Les BeeBees, TAR et plus. Jouez sur d'autres sites en Rhône-Alpes."
 image: "/images/partie-exterieur-airsoft-rhone-alpes.jpg"
 draft: false
 ---

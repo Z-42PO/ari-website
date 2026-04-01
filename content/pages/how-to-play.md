@@ -1,7 +1,7 @@
 ---
 title: "Comment jouer ?"
-meta_title: ""
-description: ""
+meta_title: "Jouer à l'airsoft près de Lyon | Inscription & tarifs ARI"
+description: "Comment participer à une partie d'airsoft avec l'ARI près de Lyon ? Inscription sur Discord ou Tacline, tarifs, équipement nécessaire : tout pour venir jouer."
 image: "/images/inscription-partie-airsoft-lyon.jpg"
 draft: false
 ---
