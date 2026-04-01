@@ -39,7 +39,7 @@ features:
     button:
       enable: true
       label: "Pourquoi jouer à l'ARI ?"
-      link: "/why"
+      link: "/association-airsoft-lyon"
 
   - title: "Nos terrains"
     image: "/images/nos-terrains-airsoft-lyon.jpg"
@@ -51,5 +51,5 @@ features:
     button:
       enable: true
       label: "Comment jouer à l'ARI ?"
-      link: "/how-to-play"
+      link: "/jouer-airsoft-lyon"
 ---

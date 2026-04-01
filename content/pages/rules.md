@@ -1,5 +1,6 @@
 ---
 title: "Règles de jeu à l'ARI"
+slug: "regles-airsoft"
 meta_title: "Règles airsoft près de Lyon | Briefing & sécurité ARI"
 description: "Consultez les règles de jeu de l'ARI, association airsoft près de Lyon : sécurité, puissance des répliques autorisées, fairplay et déroulé du briefing."
 image: "/images/regles-jeu-airsoft-lyon.jpg"

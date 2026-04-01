@@ -1,5 +1,6 @@
 ---
 title: "Le scénario de l'ARI"
+slug: "scenario-airsoft"
 meta_title: "Scénario airsoft Lyon | L'univers fictif de l'ARI"
 description: "L'ARI propose des parties d'airsoft scénarisées près de Lyon. Découvrez l'univers fictif décalé et humoristique qui enrichit l'immersion de nos joueurs."
 image: "/images/scenario-ari-airsoft-lyon.jpg"

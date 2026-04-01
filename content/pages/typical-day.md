@@ -1,5 +1,6 @@
 ---
 title: "Ma journée type à l'ARI"
+slug: "journee-airsoft-lyon"
 meta_title: "Une journée airsoft près de Lyon | Programme ARI"
 description: "Découvrez le déroulé d'une journée de jeu d'airsoft avec l'ARI près de Lyon : accueil, briefing, scénarios, repas et bonne ambiance de 9h à 17h."
 image: "/images/journee-type-airsoft-lyon.jpg"

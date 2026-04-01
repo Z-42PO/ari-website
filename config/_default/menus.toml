@@ -11,25 +11,25 @@ name = "L'association"
 [[main]]
 parent = "L'association"
 name = "Notre engagement"
-url = "/why"
+url = "/association-airsoft-lyon"
 weight = 1
 
 [[main]]
 parent = "L'association"
 name = "Notre scénario"
-url = "/scenario"
+url = "/scenario-airsoft"
 weight = 2
 
 [[main]]
 parent = "L'association"
 name = "Nos terrains"
-url = "/our-fields"
+url = "/terrains-airsoft-lyon"
 weight = 3
 
 [[main]]
 parent = "L'association"
 name = "Anciens terrains"
-url = "/old-terrains"
+url = "/anciens-terrains-airsoft"
 weight = 4
 
 [[main]]
@@ -39,29 +39,29 @@ name = "Nos parties"
 [[main]]
 parent = "Nos parties"
 name = "Inscription"
-url = "/how-to-play"
+url = "/jouer-airsoft-lyon"
 weight = 1
 
 [[main]]
 parent = "Nos parties"
 name = "Une journée type"
-url = "/typical-day"
+url = "/journee-airsoft-lyon"
 weight = 2
 
 [[main]]
 parent = "Nos parties"
 name = "Nos règles de jeu"
-url = "/rules"
+url = "/regles-airsoft"
 weight = 3
 
 [[main]]
 name = "Boutique"
-url = "/shop"
+url = "/boutique-airsoft"
 weight = 4
 
 [[main]]
 name = "Autres assos"
-url = "/outside"
+url = "/autres-associations-airsoft"
 weight = 5
 
 # [[main]]
@@ -107,7 +107,7 @@ weight = 5
 # footer menu
 [[footer]]
 name = "L'association"
-url = "/why"
+url = "/association-airsoft-lyon"
 weight = 1
 
 [[footer]]
@@ -117,5 +117,5 @@ weight = 2
 
 [[footer]]
 name = "Nos parties"
-url = "/how-to-play"
+url = "/jouer-airsoft-lyon"
 weight = 3

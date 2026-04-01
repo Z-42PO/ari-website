@@ -1,5 +1,6 @@
 ---
 title: "Notre boutique"
+slug: "boutique-airsoft"
 meta_title: "Adhésion & location airsoft Lyon | Boutique ARI"
 description: "Adhérez à l'ARI et profitez de réductions chez nos partenaires airsoft près de Lyon. Location de répliques disponible pour découvrir l'airsoft sans équipement."
 image: "/images/boutique-ari-airsoft-lyon.jpg"
