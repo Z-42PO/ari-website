@@ -61,10 +61,10 @@ content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='un
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["airsoft", "airsoft lyon", "airsoft rhône-alpes", "association airsoft", "terrain airsoft lyon", "parties airsoft lyon"]
+description = "Association d'airsoft près de Lyon, basée à Reyrieux dans l'Ain. Parties scénarisées, immersives et accessibles à tous, débutants comme confirmés."
+author = "Airsoft Rhône Immersion"
+twitter = ""
 image = "images/og-image.png"
 
 

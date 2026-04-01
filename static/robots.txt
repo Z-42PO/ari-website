@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://airsoft-rhone-immersion.fr/sitemap.xml
