@@ -1,5 +1,5 @@
 ---
-title: "Comment jouer ?"
+title: "Comment jouer avec nous ?"
 slug: "jouer-airsoft-lyon"
 meta_title: "Jouer à l'airsoft près de Lyon | Inscription & tarifs ARI"
 description: "Comment participer à une partie d'airsoft avec l'ARI près de Lyon ? Inscription sur Discord ou Tacline, tarifs, équipement nécessaire : tout pour venir jouer."
