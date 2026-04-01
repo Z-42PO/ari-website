@@ -33,7 +33,7 @@ Il n'est pas nécessaire de suivre ou d'adhérer à ce scénario pour venir joue
 {{< features image="images/propagande-beaujolais-rhone-alpes-01.jpg" position="right" title="Une République autonome" alt="Propagande de la RAPARA, République Autonome Populaire d'Auvergne-Rhône-Alpes" >}}
 Il y a bien longtemps que le territoire du Beaujolais appartient à la République (autonome) Populaire d'Auvergne-Rhône-Alpes (RAPARA). Tout se passait relativement bien jusque là. La République se développait, laissant le Beaujolais et ses habitants à leurs occupations ancestrales : la culture et la consommation de pinard. De fait, la topographie vallonée de leurs terres rend toute communication -par les ondes ou par la route- compliquée, c'est donc naturellement que la région est longtemps restée peu développée.
 
-Puis vint l'élection d'un nouveau secrétaire générale du 1er (et unique) parti politique en RAPARA : Lauran WOKIÉ. Ce dernier avait plein d'ambition pour le territoire, et un plan quinquennal déjà bien ficelé. 1ere étape : inonder les collines sous les ondes 5G afin de désenclaver les vignes et y amener l'industrie.
+Puis vint l'élection d'un nouveau secrétaire général du 1er (et unique) parti politique en RAPARA : Lauran WOKIÉ. Ce dernier avait plein d'ambition pour le territoire, et un plan quinquennal déjà bien ficelé. 1ère étape : inonder les collines sous les ondes 5G afin de désenclaver les vignes et y amener l'industrie.
 {{< /features >}}
 
 {{< features image="images/propagande-beaujolais-rhone-alpes-02.jpg" position="left" title="Une Résistance acharnée" alt="Propagande du Front de Libération du Beaujolais, faction rebelle du scénario ARI" >}}
@@ -57,7 +57,7 @@ Financés par la RAPARA, ils ont pour mission de pacifier le Beaujolais afin que
 
 {{< column image="images/ecusson-FLB-beaujolais-airsoft.jpg" title="FLB" alt="Écusson du FLB (Front de Libération du Beaujolais), faction du scénario airsoft ARI" >}}
 <h3 class="text-center">(Front de Libération du Beaujolais)</h3>
-Dès l'installation des 1eres antennes 5G, les plus téméraires des habitants, vignerons en tête, ont pris le maquis.
+Dès l'installation des 1ères antennes 5G, les plus téméraires des habitants, vignerons en tête, ont pris le maquis.
 
 Protégés par la nature et les habitants, ils font feu de tout bois pour contrecarrer les plans de la RAPARA et n'hésitent pas à affronter les terribles commandos de la MSI.
 

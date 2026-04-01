@@ -20,7 +20,7 @@ features:
     image: "/images/definition-airsoft-lyon.jpg"
     content: "L’**airsoft** est une activité de loisir à caractère sportif. Les participants s'affrontent en équipe en utilisant des **répliques** qui propulsent des billes de 6 mm. Nous pratiquons l’**airsoft** dans les environs de Lyon et avons des joueurs dans le Beaujolais, autours de Lyon bien sûr et vers Mâcon."
     bulletpoints:
-      - "Faiplay et respect"
+      - "Fairplay et respect"
       - "Esprit d'équipe et camaraderie"
       - "Jeu tactique et sportif en toute sécurité"
     button:
@@ -31,7 +31,7 @@ features:
 
   - title: "Nos valeurs"
     image: "/images/nos-valeurs-airsoft-lyon.jpg"
-    content: "Association constituée de passionnés de l'airsoft, nous avons à coeur de proposer **un jeu qualitatif, accessible et non élitiste**. L'ARI est adhérente à la [Fédération Française d'Airsoft](https://ffairsoft.org/) et souscrit à son assurance."
+    content: "Association constituée de passionnés de l'airsoft, nous avons à cœur de proposer **un jeu qualitatif, accessible et non élitiste**. L'ARI est adhérente à la [Fédération Française d'Airsoft](https://ffairsoft.org/) et souscrit à son assurance."
     bulletpoints:
       - "Un airsoft ouvert à tous, confirmés comme débutants"
       - "Équilibre des niveaux de jeu en cours de partie"

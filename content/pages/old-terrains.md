@@ -6,7 +6,7 @@ description: "Historique des anciens terrains d'airsoft de l'ARI près de Lyon, 
 image: "/images/ancien-terrain-airsoft-echarmeaux.jpg"
 draft: false
 ---
-## Col des Echameaux (55min de Lyon)
+## Col des Écharmeaux (55min de Lyon)
 - Ouverture du terrain : du 01/03/2023 au 21/09/2025
 - Type : forêt mixte (taillis, sapins, clairière)
 - Surface totale : 1,13 Ha

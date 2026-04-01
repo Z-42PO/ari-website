@@ -8,7 +8,7 @@ draft: false
 ---
 ## Promotion active des autres terrains
 
-L'ARI ne souhaite pas tomber dans le piège de la routine et de l'entre-soit : nous faisons la promotion active du jeu sur les autres terrains et avec les autres association du Rhône et au délà.
+L'ARI ne souhaite pas tomber dans le piège de la routine et de l'entre-soit : nous faisons la promotion active du jeu sur les autres terrains et avec les autres association du Rhône et au-delà.
 
 {{< image src="images/carte-autres-terrains-airsoft.jpg" caption="" alt="Carte des terrains et associations airsoft autour de Lyon en Rhône-Alpes" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
@@ -48,14 +48,14 @@ Joue dans un village de combat très dense sur un terrain naturel de 10 Ha dans 
 Localisation : https://goo.gl/maps/U51tMiweuw523CBR6 (30 min à l'est de Lyon)<br>
 Parties type speedsoft, presque tous les dimanche matins de l'année.<br>
 S'inscrire sur le forum : https://lvb-airsoft-team.forumactif.org/<br>
-Partie d'essaie gratuite, puis 120€ d'adhésion à l'année. 10€ la location de matériel. 
+Partie d'essai gratuite, puis 120€ d'adhésion à l'année. 10€ la location de matériel. 
 
 ### Funky Factory
 
-#### Hangar aménagé en CQB pratagé par plusieurs associations
+#### Hangar aménagé en CQB partagé par plusieurs associations
 
-- Delta Fox, page facebookl : https://www.facebook.com/associationdeltafox
-- RSOA – Ranger Section of Airsoft (Association loin 1901), page facebook : https://www.facebook.com/pagersoa
+- Delta Fox, page facebook : https://www.facebook.com/associationdeltafox
+- RSOA – Ranger Section of Airsoft (Association loi 1901), page facebook : https://www.facebook.com/pagersoa
 - BSA - Black Squad Airsoft https://www.facebook.com/profile.php?id=100057158961741
 
 Localisation : https://goo.gl/maps/fJwJK4M47s9R3NfF8 (à Charvieu-Chavagneux, à 35 min à l'Est de Lyon).

@@ -27,7 +27,7 @@ draft: false
 {{< /features >}}
 
 {{< features image="/images/journee-type-airsoft-04.jpg" position="right" title="12:00" alt="Déjeuner convivial lors d'une journée airsoft à l'ARI" >}}
-- Il est proposé aux joueurs qui le souhaitent de contribuer à l'aménagement et l'entretien du terrain pendant 20 min (ramasser des branches, regarnir ou créer des barricades etc.). Ces séquences sont indispensables au maintient de bonnes conditions de jeu sans avoir à pratiquer de tarif prohibitifs !
+- Il est proposé aux joueurs qui le souhaitent de contribuer à l'aménagement et l'entretien du terrain pendant 20 min (ramasser des branches, regarnir ou créer des barricades etc.). Ces séquences sont indispensables au maintien de bonnes conditions de jeu sans avoir à pratiquer de tarif prohibitifs !
 - L'apéritif est servi. Le déjeuner est un moment très convivial. Attention à ne pas trop se remplir, il faut bouger l'après midi...
 - Ceux qui le souhaitent peuvent tenter le parcours de tir !
 {{< /features >}}
