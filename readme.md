@@ -53,6 +53,8 @@ Il menu est modifiable depuis le fichier `config/_default/menus.toml`
 
 Si besoin de rajouter des images ou du style CSS, c'est dans le dossier `assets`. Le dossier `public` ne doit pas être modifié, il est généré lors du `run` et `build`.
 
+Exception cependant pour la banner du fichier `_index.md` (la home page). Dans ce cas précis l'image doit être dans le dossier `static/images`.
+
 ⚠️ Bien utiliser des fichiers `.jpg` compressés à 75%. Côté max de 2000px. Eviter les `.png` autant que possible. Pour les images à fond transparent, essayer le `.svg` d'abord, plus léger, sinon utiliser le `.png` (pas le choix).
 
 ⚠️ Pour nommer les images (et autres fichiers / dossiers) : NE PAS mettre d'espace ni d'accent, utiliser des minuscules uniquement et essayer de mettre des mot-clés pertinents (3-4 max).
