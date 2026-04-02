@@ -46,7 +46,7 @@ Les actes de séditions commencèrent à se multiplier, la milice de la RAPARA f
 
 
 {{< columns >}}
-{{< column image="images/ecusson-MSI-airsoft-lyon.jpg" title="MSI" alt="Écusson de la MSI (Marteau Sécurité Inc.), faction du scénario airsoft ARI" >}}
+{{< column image="images/ecusson-MSI-airsoft-lyon.png" title="MSI" alt="Écusson de la MSI (Marteau Sécurité Inc.), faction du scénario airsoft ARI" >}}
 <h3 class="text-center">(Marteau Sécurité Inc.)</h3>
 Cette société militaire privée est composée d'anciens soldats et de marginaux sans scrupules et qui n'ont qu'un seul credo : l'argent.
 
@@ -55,7 +55,7 @@ Financés par la RAPARA, ils ont pour mission de pacifier le Beaujolais afin que
 **Thème :** forces spéciales, équipement lourd et de pointe, tenues de couleurs sombres (noir, multicam black...)
 {{< /column >}}
 
-{{< column image="images/ecusson-FLB-beaujolais-airsoft.jpg" title="FLB" alt="Écusson du FLB (Front de Libération du Beaujolais), faction du scénario airsoft ARI" >}}
+{{< column image="images/ecusson-FLB-beaujolais-airsoft.png" title="FLB" alt="Écusson du FLB (Front de Libération du Beaujolais), faction du scénario airsoft ARI" >}}
 <h3 class="text-center">(Front de Libération du Beaujolais)</h3>
 Dès l'installation des 1ères antennes 5G, les plus téméraires des habitants, vignerons en tête, ont pris le maquis.
 
