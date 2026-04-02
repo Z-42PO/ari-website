@@ -11,7 +11,7 @@ banner:
   button:
     enable: true
     label: "Rejoindre notre Discord"
-    link: "https://discord.gg/7KrABEPUwS"
+    link: "https://discord.gg/ztARmxCwwK"
     target: "_blank"
 
 # Features

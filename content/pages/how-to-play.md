@@ -8,9 +8,9 @@ draft: false
 ---
 ## Prise de contact et inscription
 
-Nous lançons sur [Discord](https://discord.gg/7KrABEPUwS) un vote chaque mois pour organiser les parties du mois suivant. Chacun peut voter, invités comme membres.
+Nous lançons sur [Discord](https://discord.gg/ztARmxCwwK) un vote chaque mois pour organiser les parties du mois suivant. Chacun peut voter, invités comme membres.
 
-Les inscriptions aux parties se font sur [Tacline](https://tacline.co/fr/user/airsoft-rhone-immersion) ou [Hello Asso](https://www.helloasso.com/associations/airsoft-rhone-immersion). Le message est également relayé sur [Facebook](https://www.facebook.com/profile.php?id=100094659845918). Dès qu'une partie est ouverte, tout est indiqué sur notre [Discord](https://discord.gg/7KrABEPUwS).
+Les inscriptions aux parties se font sur [Tacline](https://tacline.co/fr/user/airsoft-rhone-immersion) ou [Hello Asso](https://www.helloasso.com/associations/airsoft-rhone-immersion). Le message est également relayé sur [Facebook](https://www.facebook.com/profile.php?id=100094659845918). Dès qu'une partie est ouverte, tout est indiqué sur notre [Discord](https://discord.gg/ztARmxCwwK).
 
 {{< columns >}}
 {{< column image="images/homme-airsoft-amateur-occasionnel.jpg" title="Occasionnel" alt="Joueur airsoft occasionnel équipé pour une partie à l'ARI près de Lyon" >}}
