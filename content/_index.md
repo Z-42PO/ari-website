@@ -7,7 +7,7 @@ banner:
   title: "Airsoft Rhône Immersion"
   content: "Association loi 1901 à but non lucratif dont l'objectif est de promouvoir, développer, informer et initier à la pratique de l’Airsoft de manière légale, responsable et sécuritaire."
   subcontent: "Nous sommes basés au nord de Lyon, autour de Villefranche-sur-Saône, avec des terrains à Reyrieux et Blacé."
-  image: "/images/banner.jpg"
+  image: "/images/Banner-airsoft-foret.png"
   button:
     enable: true
     label: "Rejoindre notre Discord"
