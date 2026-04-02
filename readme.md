@@ -55,7 +55,7 @@ Si besoin de rajouter des images ou du style CSS, c'est dans le dossier `assets`
 
 ⚠️ Bien utiliser des fichiers `.jpg` compressés à 75%. Côté max de 2000px. Eviter les `.png` autant que possible. Pour les images à fond transparent, essayer le `.svg` d'abord, plus léger, sinon utiliser le `.png` (pas le choix).
 
-⚠️ Pour nommer les images (et autres fichiers) : NE PAS mettre d'espace ni d'accent, utiliser des minuscules uniquement et essayer de mettre des mot-clés pertinents (3-4 max).
+⚠️ Pour nommer les images (et autres fichiers / dossiers) : NE PAS mettre d'espace ni d'accent, utiliser des minuscules uniquement et essayer de mettre des mot-clés pertinents (3-4 max).
 
 ### Pages
 
