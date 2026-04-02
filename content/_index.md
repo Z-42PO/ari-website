@@ -43,7 +43,7 @@ features:
 
   - title: "Nos terrains"
     image: "/images/nos-terrains-airsoft-lyon.jpg"
-    content: "Nous avons deux terrains dans l'Ain en région Auvergne-Rhône-Alpes, à proximité de Lyon et Mâcon."
+    content: "Nous disposons de deux terrains : l’un dans l’Ain, au nord de Lyon à Reyrieux, et l’autre dans le Rhône, à Blacé, près de Villefranche-sur-Saône."
     bulletpoints:
       - "Terrains boisés et ouverts"
       - "Entretien régulier et aménagements"
