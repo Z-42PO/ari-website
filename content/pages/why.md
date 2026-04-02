@@ -2,7 +2,7 @@
 title: "Une expérience unique"
 slug: "association-airsoft-lyon"
 meta_title: "Pourquoi jouer à l'airsoft à Lyon ? | Association ARI"
-description: "Découvrez les valeurs de l'ARI, association airsoft près de Lyon : jeu immersif et scénarisé, accessible à tous, dans un cadre sécurisé et convivial à Reyrieux."
+description: "Découvrez l’ARI, association d’airsoft près de Lyon et de Villefranche-sur-Saône, avec des terrains dans le Rhône et l’Ain : jeu immersif et scénarisé, accessible à tous, dans un cadre sécurisé et convivial."
 image: "/images/engagement-airsoft-responsable-lyon.jpg"
 draft: false
 ---
