@@ -28,7 +28,7 @@ A réserver au moment de prendre son billet pour 1 partie
 
 Un pack de location comprend :
 
-- 1 réplique de type fusil d'assaut de puissance standard (1J)
+- 1 réplique de type fusil d'assaut de puissance standard (1J) ou autre, selon disponibilité
 - 1 batterie permettant de tirer environ 1000 coups
 - 1 chargeur de 300 coups, regarni entre chaque scénario
 

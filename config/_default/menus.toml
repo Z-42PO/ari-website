@@ -38,7 +38,7 @@ name = "Nos parties"
 
 [[main]]
 parent = "Nos parties"
-name = "Inscription"
+name = "Inscription et tarif"
 url = "/jouer-airsoft-lyon"
 weight = 1
 

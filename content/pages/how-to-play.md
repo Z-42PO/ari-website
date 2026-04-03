@@ -12,6 +12,9 @@ Nous lançons sur [Discord](https://discord.gg/ztARmxCwwK) un vote chaque mois p
 
 Les inscriptions aux parties se font sur [Tacline](https://tacline.co/fr/user/airsoft-rhone-immersion) ou [Hello Asso](https://www.helloasso.com/associations/airsoft-rhone-immersion). Le message est également relayé sur [Facebook](https://www.facebook.com/profile.php?id=100094659845918). Dès qu'une partie est ouverte, tout est indiqué sur notre [Discord](https://discord.gg/ztARmxCwwK).
 
+---
+## Tarif
+
 {{< columns >}}
 {{< column image="images/homme-airsoft-amateur-occasionnel.jpg" title="Occasionnel" alt="Joueur airsoft occasionnel équipé pour une partie à l'ARI près de Lyon" >}}
 **10€ la journée de jeu** (assurance incluse - hors options).
@@ -37,20 +40,31 @@ Etre adhérent, c'est aussi profiter de certains avantages :
 {{< /column >}}
 {{< /columns >}}
 
-{{< features image="images/table-picnic-airsoft-lyon.jpg" position="left" title="Option : formule déjeuner (10€)" >}}
-Repas du midi complet  avec apéritifs divers, fromage, charcuterie, pain, plats traiteurs froids, boissons et dessert.
+{{< features image="images/journee-type-airsoft-04.jpg" position="left" title="Option : formule déjeuner (10€)" >}}
+
+**🍽️ Repas du midi complet avec par exemple :**
+
+**☕ Petit-déjeuner :** café, pains au chocolat, pain frais du matin  
+**🥂 Apéritif :** biscuits apéritifs variés  
+**🥤 Boissons :** sodas, jus de fruits  
+**🥓 Charcuterie :** pâté en croûte cocktail artisanal, rillettes du Mans, saucisson artisanal…  
+**🍕 Salé :** pizza, focaccia, quiches maison…  
+**🧀 Fromages :** Saint-Félicien, Saint Agur, coulommiers, comté…  
+**🍰 Desserts :** gâteaux (Kinder Bueno, cookies Granola, KitKat…), muffins maison  
+
+⚠️Merci de nous prévenir en cas de restrictions alimentaires (halal, etc.) afin que nous puissions nous adapter, il n’y a aucun souci 😉
 
 ⚠️ Feu et alcool interdits
 {{< /features >}}
 
 {{< features image="images/repliques-airsoft-location-lyon.jpg" position="right" title="Option : location (10€)" alt="Répliques airsoft disponibles à la location lors des parties de l'ARI" >}}
-Le pack de location comprend 1 réplique de type fusil d'assaut électrique de puissance standard (1J) avec munitions et consommables pour environ 1000 coups minimum.
+Le pack de location comprend 1 réplique avec munitions pour la journée.
 
 Les adhérents bénéficient d'un tarif location à 5€ au lieu de 10€.
 
 L'association met à disposition des protections pour les yeux et le visage en priorité aux joueurs ayant pris la formule location, mais selon les stocks de protections disponibles, peut également dépanner gracieusement les joueurs sans location.
 
-Des packs premium sont également disponibles !
+Des packs premium sont également parfois disponibles !
 
-{{< button label="Découvrir les packs de location" link="/shop" >}}
+{{< button label="Découvrir les packs de location" link="/boutique-airsoft" >}}
 {{< /features >}}
