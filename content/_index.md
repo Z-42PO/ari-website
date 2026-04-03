@@ -13,6 +13,12 @@ banner:
     label: "Rejoindre notre Discord"
     link: "https://discord.gg/ztARmxCwwK"
     target: "_blank"
+  button2:
+    enable: true
+    label2: "Nous suivre sur Facebook"
+    link2: "https://www.facebook.com/profile.php?id=100094659845918"
+    target: "_blank"
+
 
 # Features
 features:
